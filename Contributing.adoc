@@ -65,4 +65,4 @@ useful in open source projects:
 * "Sign your work", section 11 of the contributor guide for the Linux Kernel
   project: <https://kernel.org/doc/Documentation/SubmittingPatches>
 =========================================================================
-* Added new line again and a new one
+* Added new line again
